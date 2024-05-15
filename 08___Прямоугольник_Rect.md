@@ -31,3 +31,6 @@ def draw():
 pgzrun.go()
 
 ```
+
+Подробнее про объекты Rect написано тут:\
+https://pg1.readthedocs.io/en/latest/ref/rect.html#pygame.Rect

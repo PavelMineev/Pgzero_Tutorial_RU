@@ -141,3 +141,6 @@ hero = Actor("hero123", center=(WIDTH/2, HEIGHT/2))
 ```python
 hero_clone = Actor("hero123", bottomleft=hero.bottomright)
 ```
+
+Больше можно прочитать тут:\
+https://pygame-zero.readthedocs.io/en/stable/builtins.html#positioning-actors
